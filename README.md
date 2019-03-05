@@ -1,2 +1,6 @@
 # RTcad
-Sistema de controle de Custos
+Sistema de controle de Custos React + Bootstrap.
+
+
+
+
