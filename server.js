@@ -1,3 +1,8 @@
+/*
+Criado por: Victor Ratts
+git: https://github.com/victorratts13/RTcad.git
+ano: 2019
+*/
 const express = require('express');
 const mysql = require('mysql');
 const cors = require('cors');
