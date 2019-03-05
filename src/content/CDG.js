@@ -30,6 +30,7 @@ export default class CDG extends Component {
                 <thead>
                   <tr>
                     <th scope="col">#</th>
+                    <th scope="col">Usuario</th>
                     <th scope="col">Departamento</th>
                     <th scope="col">Descr.</th>
                     <th scope="col">Valor R$</th>
@@ -41,6 +42,7 @@ export default class CDG extends Component {
                 <tbody>
                   <tr key={getCDG.id}>
                     <th scope="row">{getCDG.id}</th>
+                    <td>Admin</td>
                     <td>{getCDG.depart}</td>
                     <td>{getCDG.descr}</td>
                     <td>R$ {getCDG.valor}</td>
