@@ -26,7 +26,7 @@ const Home = () => {
       return(
         <div className="container-fluid text-center ">
         <h2>RTcad - Gerenciamento e administração</h2>
-        Seja Bem-Vindo.
+        Seja Bem-Vindo. <b>Admin</b>
             <div className="row">
             <Card 
             title={homeCard.title}
