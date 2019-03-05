@@ -21,7 +21,7 @@ componentDidMount(){
     this.getData();
 }
 getData =_=>{
-    fetch('http://localhost:3300/apiCFDA')
+    fetch('http://localhost:3300/apiCDD')
         .then(Response => Response.json())
         .then(Response => this.setState({getCFDA: Response.data}))
         .catch(err => console.error(err))
