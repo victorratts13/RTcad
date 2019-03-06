@@ -15,7 +15,7 @@ const NavBar = (props) => {
       <Link to='/' className="nav-link">Inicio</Link>
       </li>
       <li className="nav-item">
-      <Link to='/' className="nav-link">Sobre</Link>
+      <a href="https://github.com/victorratts13/RTcad" className="nav-link">Sobre</a>
       </li>
       <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -29,7 +29,7 @@ const NavBar = (props) => {
           <a className="disabled dropdown-item" href="#" tabindex="-1" aria-disabled="true">Versão 1.0</a>
         </div>
       </li>
-      
+      <Link to='/CH' className="nav-link">Detalhes e consultas</Link>
     </ul>
   </div>
 </nav>
