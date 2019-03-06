@@ -5,6 +5,7 @@ import App from './App';
 import CFDA from './content/CFDA';
 import CDD from './content/CDD';
 import CDG from './content/CDG';
+import CH from './content/CH';
 import * as serviceWorker from './serviceWorker';
 import {Router, Route, IndexRoute, hashHistory} from 'react-router';
 import Home from './ui/Home';
@@ -16,6 +17,7 @@ ReactDOM.render(
         <Route path='/CFDA' component={CFDA} />
         <Route path='/CDD' component={CDD} />
         <Route path='/CDG' component={CDG} />
+        <Route path='/CH' component={CH} />
   </Route>
 </Router>
 
