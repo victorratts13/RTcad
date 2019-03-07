@@ -27,4 +27,4 @@ Sistema de controle de Custos React + Bootstrap.
   - 5: execute *~$ npm start* e aguarde a execução.
 ## ScreamShorts
 
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![RTcad - Pagina Inicial Desktop](https://i.imgur.com/qIaGlu7.png)
