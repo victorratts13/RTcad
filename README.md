@@ -2,6 +2,7 @@
 Sistema de controle de Custos React + Bootstrap.
 
 ### frameworks e tecnologias usadas:
+ >- BootsTrap: "4.0.2"
  >-  concurrently: "^4.1.0",
  >-  cors: "^2.8.5",
  >-  express: "^4.16.4",
