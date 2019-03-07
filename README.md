@@ -10,6 +10,7 @@ Sistema de controle de Custos React + Bootstrap.
  >-  react-dom: "^16.8.3",
  >-  react-router: "^3.2.1",
  >-  react-scripts: "2.1.5"
+ >-  ChartJs: "2.7"
  
  ## Instalação e execução
   - 1: clone este repositório
