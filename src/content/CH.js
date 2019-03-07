@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import Chart from '../ui/Chart'
-import ChartPie from '../ui/ChartPie'
 
 export default class CH extends Component {
     
