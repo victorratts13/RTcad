@@ -16,7 +16,7 @@ Sistema de controle de Custos React + Bootstrap.
  ## Instalação e execução
   - 1: clone este repositório
   - 2: execute *~$ npm install* para instalar todos os modulos e dependencias
-  - 3: configure um banco de dados mysql e edite o arquivo server.js na linha 12
+  - 3: configure um banco de dados mysql e edite o arquivo server.js na linha 13
     >- host: 'seu_host_mysql',
     >- user: 'usuario_DB',
     >- password: 'senha_DB',
