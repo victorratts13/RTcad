@@ -25,6 +25,7 @@ Sistema de controle de Custos React + Bootstrap.
   - 4: em seu servidor mysql, importe o arquivo RTcad.sql dentro do banco de dados que o RTcad irá se conectar
     >- Caso queira, crie manualmente as tabelas CDD, CFDA e CDG com as configuraçoes correntes no sistema
   - 5: execute *~$ npm start* e aguarde a execução.
+    - *obs: o sistema é executado nas portas 3300 e 3000. Caso essas portas estejam inutilizáveis ou ocupadas, atualizar o arquivo server.js com as portas desejadas.
 ## ScreamShorts
 
 ![RTcad - Pagina Inicial Desktop](https://i.imgur.com/qIaGlu7.png)
