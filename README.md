@@ -28,3 +28,7 @@ Sistema de controle de Custos React + Bootstrap.
 ## ScreamShorts
 
 ![RTcad - Pagina Inicial Desktop](https://i.imgur.com/qIaGlu7.png)
+![RTcad - Pagina CFDA Desktop](https://i.imgur.com/hpYwhtk.png)
+![RTcad - Pagina CGD Desktop](https://i.imgur.com/d41NICg.png)
+![RTcad - Pagina Mobile 0 Desktop](https://i.imgur.com/eygGV3r.png)
+![RTcad - Pagina Mobile 1 Desktop](https://i.imgur.com/Za1fXdW.png)
